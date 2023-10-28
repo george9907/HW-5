@@ -762,7 +762,6 @@ margin-bottom: 24px;
 
 .check-text-label{
 margin-left: 8px;
-display: flex;
 align-items: center;
 line-height: 1.17;
 font-size: 12px;
@@ -779,7 +778,7 @@ text-decoration-line: underline;
 margin-left: 4px;
 }
 
-.modal-checkicon-span{
+.modal-checkicon-span {
 width: 16px;
 height: 16px;
 border-radius: 2px;
